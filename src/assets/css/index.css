@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-alert-false {
+ box-shadow: -4px 0px 1px #c41717;
+}
+.shadow-alert-true {
+ box-shadow: -4px 0px 1px #155c33;
+}
